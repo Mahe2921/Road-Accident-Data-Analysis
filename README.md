@@ -9,3 +9,6 @@ Client Wants to create a Road Accident Dashboard  for year 2021 so that they can
 6) Relation between casualties by area / location & by Day / night.
 ## Dataset
 - <a href="https://github.com/Mahe2921/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Data%20(1).xlsx">Dataset</a>
+## Final Conclusion to improve Road Accident Casualties:
+Most road accidents occur on dry roads in single carriageways, and the number of casualties remains at a similar level. If the government focuses more on improving the safety of dry roads and single carriageways, there might be a chance to reduce road casualties.
+
